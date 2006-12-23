@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<lights>
+	<area description="Floor 1 Lab. 126" number="0" room="126">
+		<zone description="Lab 125 Clasrm Left" number="1" systemNumber="0" type="fluorescent">
+		</zone>
+		<zone description="Lab 125 Clasrm Center" number="2" systemNumber="1" type="fluorescent">
+		</zone>
+		<zone description="Lab 125 Clasrm Right" number="3" systemNumber="2" type="fluorescent">
+		</zone>
+		<zone description="Lab 125 Wallwash Left" number="4" systemNumber="3" type="fluorescent">
+		</zone>
+		<zone description="Lab 125 Wallwash Right" number="5" systemNumber="4" type="fluorescent">
+		</zone>
+	</area>
+</lights>
